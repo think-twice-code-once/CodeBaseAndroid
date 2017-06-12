@@ -1,9 +1,9 @@
-package dagger2.codebase.dependencies.provider;
+package codebase_simple.dependencies;
 
 import dagger.Component;
-import dagger2.codebase.services.Match;
-import dagger2.codebase.services.Street;
-import dagger2.codebase.annotations.ApplicationScope;
+import codebase_simple.services_local.Match;
+import codebase_simple.services_local.Street;
+import codebase.annotations.ApplicationScope;
 
 /**
  * -> Created by phong.nguyen@beesightsoft.com on 6/2/2017.

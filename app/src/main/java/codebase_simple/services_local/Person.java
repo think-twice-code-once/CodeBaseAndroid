@@ -1,4 +1,4 @@
-package dagger2.codebase.services;
+package codebase_simple.services_local;
 
 /**
  * -> Created by phong.nguyen@beesightsoft.com on 6/2/2017.

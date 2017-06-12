@@ -1,10 +1,10 @@
-package dagger2.codebase.dependencies.provider;
+package codebase_simple.dependencies;
 
 import dagger.Module;
 import dagger.Provides;
-import dagger2.codebase.services.Coach;
-import dagger2.codebase.services.Player;
-import dagger2.codebase.annotations.ApplicationScope;
+import codebase_simple.services_local.Coach;
+import codebase_simple.services_local.Player;
+import codebase.annotations.ApplicationScope;
 
 /**
  * -> Created by phong.nguyen@beesightsoft.com on 6/2/2017.

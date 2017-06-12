@@ -1,8 +1,8 @@
-package dagger2.codebase.dependencies.provider;
+package codebase_simple.dependencies;
 
 import dagger.Component;
-import dagger2.codebase.ui.Main2Activity;
-import dagger2.codebase.annotations.ActivityScope;
+import codebase.ui.Main2Activity;
+import codebase.annotations.ActivityScope;
 
 /**
  * -> Created by phong.nguyen@beesightsoft.com on 6/6/2017.

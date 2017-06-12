@@ -1,9 +1,9 @@
-package dagger2.codebase.dependencies.provider;
+package codebase_simple.dependencies;
 
+import codebase.annotations.ApplicationScope;
+import codebase_simple.services_local.Advertisement;
 import dagger.Module;
 import dagger.Provides;
-import dagger2.codebase.services.Advertisement;
-import dagger2.codebase.annotations.ApplicationScope;
 
 /**
  * -> Created by phong.nguyen@beesightsoft.com on 6/2/2017.

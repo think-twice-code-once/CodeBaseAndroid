@@ -1,4 +1,4 @@
-package dagger2.codebase.annotations;
+package codebase.annotations;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

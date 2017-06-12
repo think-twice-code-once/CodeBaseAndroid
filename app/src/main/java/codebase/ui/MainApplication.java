@@ -1,11 +1,11 @@
-package dagger2.codebase.ui;
+package codebase.ui;
 
 import android.support.multidex.MultiDexApplication;
 
-import dagger2.codebase.dependencies.provider.DaggerMatchComponent;
-import dagger2.codebase.dependencies.provider.CleanModule;
-import dagger2.codebase.dependencies.provider.ClubModule;
-import dagger2.codebase.dependencies.provider.MatchComponent;
+import codebase_simple.dependencies.CleanModule;
+import codebase_simple.dependencies.ClubModule;
+import codebase_simple.dependencies.DaggerMatchComponent;
+import codebase_simple.dependencies.MatchComponent;
 
 /**
  * -> Created by phong.nguyen@beesightsoft.com on 6/6/2017.

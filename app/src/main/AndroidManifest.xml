@@ -2,17 +2,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="codeonce.thinktwice.dagger2examples">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
-        android:name="dagger2.codebase.ui.MainApplication"
+        android:name="codebase.ui.MainApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CoffeeApp">
 
-        </activity>
-        <activity android:name="dagger2.codebase.ui.Main2Activity">
+        <activity android:name="codebase.ui.Main2Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
