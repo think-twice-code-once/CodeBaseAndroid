@@ -17,7 +17,7 @@ public class Street {
         this.player = player;
     }
 
-    void playOnStreet() {
+    public void playOnStreet() {
         coach.makeDecision();
         player.shoot();
         player.shoot();

@@ -5,5 +5,5 @@ package codebase.util;
  */
 
 public class Constants {
-    public static final String BASE_API_URL = "http://avb.azurewebsites.net/api/";
+    public static final String BASE_API_URL = "http://ibss.io:5503/api/";
 }

@@ -1,7 +1,7 @@
 package codebase_simple.dependencies;
 
 import dagger.Component;
-import codebase.ui.Main2Activity;
+import codebase.domains.local.Main2Activity;
 import codebase.annotations.ActivityScope;
 
 /**
