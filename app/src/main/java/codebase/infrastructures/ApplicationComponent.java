@@ -1,4 +1,4 @@
-``package codebase.infrastructures;
+package codebase.infrastructures;
 
 import codebase.annotations.ApplicationScope;
 import codebase.domains.main.MainActivity;
